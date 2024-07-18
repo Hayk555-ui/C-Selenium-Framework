@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hayk\\source\\repos\\UdemyCourse\\Selenium\\Selenium.csproj": {}
+    "C:\\Users\\Hayk\\Downloads\\C-Selenium-Framework\\Selenium\\Selenium.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hayk\\source\\repos\\UdemyCourse\\Selenium\\Selenium.csproj": {
+    "C:\\Users\\Hayk\\Downloads\\C-Selenium-Framework\\Selenium\\Selenium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hayk\\source\\repos\\UdemyCourse\\Selenium\\Selenium.csproj",
+        "projectUniqueName": "C:\\Users\\Hayk\\Downloads\\C-Selenium-Framework\\Selenium\\Selenium.csproj",
         "projectName": "Selenium",
-        "projectPath": "C:\\Users\\Hayk\\source\\repos\\UdemyCourse\\Selenium\\Selenium.csproj",
+        "projectPath": "C:\\Users\\Hayk\\Downloads\\C-Selenium-Framework\\Selenium\\Selenium.csproj",
         "packagesPath": "C:\\Users\\Hayk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hayk\\source\\repos\\UdemyCourse\\Selenium\\obj\\",
+        "outputPath": "C:\\Users\\Hayk\\Downloads\\C-Selenium-Framework\\Selenium\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hayk\\AppData\\Roaming\\NuGet\\NuGet.Config",

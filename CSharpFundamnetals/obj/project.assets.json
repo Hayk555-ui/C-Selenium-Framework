@@ -204,11 +204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hayk\\source\\repos\\UdemyCourse\\CSharpFundamnetals\\CSharpFundamnetals.csproj",
+      "projectUniqueName": "C:\\Users\\Hayk\\Downloads\\C-Selenium-Framework\\CSharpFundamnetals\\CSharpFundamnetals.csproj",
       "projectName": "CSharpFundamnetals",
-      "projectPath": "C:\\Users\\Hayk\\source\\repos\\UdemyCourse\\CSharpFundamnetals\\CSharpFundamnetals.csproj",
+      "projectPath": "C:\\Users\\Hayk\\Downloads\\C-Selenium-Framework\\CSharpFundamnetals\\CSharpFundamnetals.csproj",
       "packagesPath": "C:\\Users\\Hayk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hayk\\source\\repos\\UdemyCourse\\CSharpFundamnetals\\obj\\",
+      "outputPath": "C:\\Users\\Hayk\\Downloads\\C-Selenium-Framework\\CSharpFundamnetals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hayk\\AppData\\Roaming\\NuGet\\NuGet.Config",
