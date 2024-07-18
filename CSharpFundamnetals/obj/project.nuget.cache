@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "axdpFBPqxfA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hayk\\source\\repos\\UdemyCourse\\CSharpFundamnetals\\CSharpFundamnetals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hayk\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Hayk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Hayk\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Hayk\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
+    "C:\\Users\\Hayk\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
