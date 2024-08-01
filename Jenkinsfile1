@@ -1,0 +1,10 @@
+pipeline {
+    agent any
+    stages {
+        stage('Test') {
+            steps {
+                build job: 'CSharpSeleniumFramework', parameters: [string(name: 'browserName', value: 'Chrome')]
+            }
+        }
+    }
+}
