@@ -1,0 +1,1 @@
+build job: 'CSharpSeleniumFramework', parameters: [string(name: 'browserName', value: 'Chrome')]
